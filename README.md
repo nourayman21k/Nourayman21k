@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋Welcome to my profileh1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">I am Nour eldi ayman and I'm a third year computer science Ainshams student, from cairo</p>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating AI projets<br>📚 I'm currently learning more about AI both Computer vision and NLP <br>🎯 Goals: Widen my knowledge in AI<br>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with </h2>
 
 ###
 
